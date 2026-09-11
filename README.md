@@ -32,3 +32,9 @@ To identify business opportunities, performance gaps, trends, and operational im
 - Interactive Looker Studio dashboard
 - Management presentation
 
+## Google Sheet
+
+The complete assessment workbook, including the Data, Q1–Q8, Q10,
+and Processed Data worksheets, is available here:
+
+[View Google Sheet](https://docs.google.com/spreadsheets/d/1T-ZfumP3lxSUba43zfR-yv7v_d3y_X8rfngJgE5ApBk/edit?usp=sharing)
