@@ -146,7 +146,9 @@ Dashboard & Management Recommendations
 # Links & Deliverables
 
 ### Google Sheet
-https://docs.google.com/spreadsheets/d/1T-ZfumP3lxSUba43zfR-yv7v_d3y_X8rfngJgE5ApBk/edit?usp=sharing
+
+[Open the Complete Assessment Workbook](https://docs.google.com/spreadsheets/d/1T-ZfumP3lxSUba43zfR-yv7v_d3y_X8rfngJgE5ApBk/edit?usp=sharing)
 
 ### Looker Studio Dashboard
-https://datastudio.google.com/reporting/7fbcfa1d-714d-4f73-897a-80b84452e315
+
+[Open the Interactive Looker Studio Dashboard](https://datastudio.google.com/reporting/7fbcfa1d-714d-4f73-897a-80b84452e315)
